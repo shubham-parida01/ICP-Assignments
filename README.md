@@ -51,10 +51,11 @@ CSE-ICP-Assignments/
 
 3. **Run the Code**:
    - Ensure you have the required programming environment set up (e.g., Python).
-   - Navigate to the `Solution/` folder of an assignment and execute the code:
-     ```bash
-     python code.py
-     ```
+   - Naivgate to the file and compile and run using the following commands:
+   ```bash
+   javac <filename>.java
+   java <filename>
+   ````
 
 4. **Contribute**:
    If you're part of the collaborative team, feel free to contribute by submitting pull requests with improved solutions, additional explanations, or corrected errors.
