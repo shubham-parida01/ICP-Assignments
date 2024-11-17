@@ -50,7 +50,7 @@ CSE-ICP-Assignments/
    Navigate to the folder for the desired assignment to view the problem statement, solution, and explanations.
 
 3. **Run the Code**:
-   - Ensure you have the required programming environment set up (e.g., Python).
+   - Ensure you have the required programming environment set up (e.g., Java).
    - Naivgate to the file and compile and run using the following commands:
    ```bash
    javac <filename>.java
