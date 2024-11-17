@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab2Q5 {
+public class Question5 {
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Radius of Hemisphere:");

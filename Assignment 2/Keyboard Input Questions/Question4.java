@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LAB2q4 {
+public class Question4 {
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter number between 0 and 1000:");

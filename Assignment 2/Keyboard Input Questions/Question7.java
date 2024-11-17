@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.*;
 
-public class lab2Q7 {
+public class Question7 {
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		int a = 1;

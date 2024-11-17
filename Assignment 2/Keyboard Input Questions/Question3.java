@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab2Q3 {
+public class Question3 {
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Basic in-hand Salary:");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab2Q2 {
+public class Question2 {
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter your distance in km:");

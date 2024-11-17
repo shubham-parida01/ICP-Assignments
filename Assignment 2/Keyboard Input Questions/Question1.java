@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Main{
+public class Question1{
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Temperature in Fahrenheit:");
