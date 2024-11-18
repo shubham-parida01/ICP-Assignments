@@ -1,3 +1,10 @@
+/* Author's Name = 
+ * Authors's Registration Number = 
+ * Author's Semester = 
+ * Author's Branch-Section = 
+ * Subject
+ * Problem Description =
+*/
 public class Question7 {
     public static void main(String[] args) {
         int val1 = Integer.parseInt(args[0]);

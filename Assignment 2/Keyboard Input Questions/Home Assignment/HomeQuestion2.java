@@ -1,6 +1,13 @@
+/* Author's Name = 
+ * Authors's Registration Number = 
+ * Author's Semester = 
+ * Author's Branch-Section = 
+ * Subject
+ * Problem Description =
+*/
 import java.util.Scanner;
 
-public class lab2home2 {
+public class HomeQuestion2 {
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Number of Eggs:");

@@ -1,5 +1,11 @@
+/* Author's Name = 
+ * Authors's Registration Number = 
+ * Author's Semester = 
+ * Author's Branch-Section = 
+ * Subject =
+ * Problem Description =
+*/
 import java.util.Scanner;
-import java.math.*;
 
 public class Question7 {
 	public static void main(String[] arg) {

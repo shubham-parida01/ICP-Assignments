@@ -1,3 +1,10 @@
+/* Author's Name = 
+ * Authors's Registration Number = 
+ * Author's Semester = 
+ * Author's Branch-Section = 
+ * Subject
+ * Problem Description =
+*/
 public class Question4 {
     public static void main(String[] args){
         double t =  Double.parseDouble(args[0]);

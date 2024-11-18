@@ -1,3 +1,10 @@
+/* Author's Name = 
+ * Authors's Registration Number = 
+ * Author's Semester = 
+ * Author's Branch-Section = 
+ * Subject
+ * Problem Description =
+*/
 import java.util.Scanner;
 
 
