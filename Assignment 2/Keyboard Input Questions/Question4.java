@@ -13,7 +13,7 @@ public class Question4 {
 		System.out.print("Enter number between 0 and 1000:");
 		int val = sc.nextInt();
 		int sum = 0;
-		if (val<=1000) {
+		if (val>=9999) {
 			while(val > 0) {
 				sum += val%10;
 				val /= 10;
