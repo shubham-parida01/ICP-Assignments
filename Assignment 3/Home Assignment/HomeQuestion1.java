@@ -13,16 +13,13 @@ public class HomeQuestion1 {
         
         if (userChoice < 0 || userChoice > 2) {
             System.out.println("Invalid input! Please enter 0, 1, or 2.");
-        } else {
-            System.out.println("You chose: " + choices[userChoice]);
-            System.out.println("The computer chose: " + choices[computerChoice]);
-            
+        } else {            
             if (userChoice == computerChoice) {
-                System.out.println("It's a draw!");
+                System.out.println("The computer is " + computerChoice + ".You are " + userChoice + ".It's a draw!");
             } else if ((userChoice == 0 && computerChoice == 2) || (userChoice == 1 && computerChoice == 0) || (userChoice == 2 && computerChoice == 1)) {
-                System.out.println("You win!");
+                System.out.println("The computer is " + computerChoice + ".You are " + userChoice + ".You win!");
             } else {
-                System.out.println("You lose!");
+                System.out.println("The computer is " + computerChoice + ".You are " + userChoice + ".You lose!");
             }
         }
 
