@@ -42,7 +42,7 @@ CSE-ICP-Assignments/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/CSE-ICP-Assignments.git
+   git clone https://github.com/shubham-parida01/CSE-ICP-Assignments.git
    cd CSE-ICP-Assignments
    ```
 
