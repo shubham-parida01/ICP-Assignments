@@ -14,14 +14,14 @@ CSE-ICP-Assignments/
 ├── Assignment_1/
 │   ├── Problem_Statement.md
 │   ├── Solution/
-│   │   ├── code.py
+│   │   ├── code.java
 │   │   └── explanation.md
 │   └── README.md
 │
 ├── Assignment_2/
 │   ├── Problem_Statement.md
 │   ├── Solution/
-│   │   ├── code.py
+│   │   ├── code.java
 │   │   └── explanation.md
 │   └── README.md
 │
