@@ -91,5 +91,6 @@ We encourage contributions to enhance the repository. Here are a few ways you ca
 This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
+![Alt](https://repobeats.axiom.co/api/embed/c6ac214c243c0bb7ad23ba091e7e2622e27eb1c6.svg "Repobeats analytics image")
 
 Happy Coding! 🚀
